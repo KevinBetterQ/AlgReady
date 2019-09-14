@@ -2,7 +2,7 @@ package algAdvance;
 
 import java.util.*;
 
-public class ÃÔ¹¬Ñ°Â·BFS {
+public class bfs {
 
 	static class Node{
         int x;

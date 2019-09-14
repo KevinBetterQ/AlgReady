@@ -12,7 +12,7 @@ package algAdvance;
  * 思路：遍历每一件物品，思考对这一件物品的处理方法，处理并保存进dp[]数组，dp[M]即为容量为M的背包所能装下的最大价值
  */
 
-public class 背包四讲 {
+public class dp {
 
 // === 01背包问题：=== 
 	// N件物品，一个容量M的背包(cost限制)。A[]是物品体积(cost)，V[]是物品价值（value），求背包能装物品的最大价值(dp[M])。

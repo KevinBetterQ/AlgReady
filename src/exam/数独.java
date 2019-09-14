@@ -3,6 +3,7 @@ package exam;
 // ÁíÍâ£ºhttps://www.cnblogs.com/zhangbaochong/p/5847364.html
 // https://www.cnblogs.com/theskulls/p/5289593.html
 
+
 import java.util.Scanner;
 public class Êý¶À{
     public static void main(String[] args){
