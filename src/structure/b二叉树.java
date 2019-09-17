@@ -34,7 +34,7 @@ class TreeNode {
 }
 
 
-public class 二叉树 {
+public class b二叉树 {
 
 	public static void main(String[] args) {
 		// 创建并层次遍历二叉树
@@ -319,7 +319,6 @@ public class 二叉树 {
 		return isBalance(root.left) & isBalance(root.right);
 	}
 
-	
 	// 判断二叉树是否为完全二叉树 : 层次遍历，有几个判断条件，都判断上就可以了
 	static boolean isCompleteTree(TreeNode root) {
 		if(root == null) return false;

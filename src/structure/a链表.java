@@ -32,7 +32,7 @@ class ListNode {
 	}
 }
 
-public class 链表 {
+public class a链表 {
 	
 	public static void main(String[] args) {
 		// 链表创建、删除与遍历

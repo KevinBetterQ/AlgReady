@@ -14,7 +14,7 @@ import java.util.Random;
 public class 优先队列2{        
     public static void main(String args[]){  
     	
-        PriorityQueue<People> queue = new PriorityQueue<People>(11, new Comparator<People>() {  
+        /*PriorityQueue<People> queue = new PriorityQueue<People>(11, new Comparator<People>() {  
             public int compare(People p1, People p2) {  
                 return p2.age - p1.age;  
               }  
@@ -25,7 +25,7 @@ public class 优先队列2{
         }  
         while (!queue.isEmpty()) {  
               System.out.println(queue.poll().toString());  
-        }  
+        }  */
     }  
 }  
   

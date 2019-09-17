@@ -10,6 +10,8 @@ import java.util.Stack;
 一：遍历是为了把整个遍历路径给展示出来
 二：遍历是为了遍历到最后有一个判断条件
 
+DFS用递归；BFS用队列
+
  */
 
 public class 图 {   
